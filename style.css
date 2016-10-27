@@ -1,0 +1,15 @@
+body{
+	font-family: "Open Sans", Sans-serif;
+}
+
+#container{
+	width: 960px;
+	margin: auto;
+}
+
+input{
+	padding: 16px;
+	width: 300px;
+	font-size: 18px;
+	margin: 20px 0;
+}
